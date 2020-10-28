@@ -5,6 +5,7 @@
 h1 {
   text-align: center;
   margin-bottom: 15px;
+  font-size: 175%;
 }
 
 body {
@@ -23,6 +24,7 @@ p {
   margin-left: 50px;
   margin-right: 50px;
   font-family: Comic Sans MS, Arial, sans-serif;
+  font-size: 100%;
   text-align: justify; 
   color: #3d3d29;
   background-color: #eeccff;
@@ -41,7 +43,7 @@ p.box3 {
 }
 
 .title1 {
-  width: 80px;
+  width: 100px;
   border: 1px solid black;
   position: absolute;
   top: 0px;
@@ -49,10 +51,11 @@ p.box3 {
   background-color: #80bfff;
   text-align: center;
   color: #001a33;
+  font-size: 125%;
 }
 
 .title2 {
-  width: 80px;
+  width: 100px;
   border: 1px solid black;
   position: absolute;
   top: 0px;
@@ -60,10 +63,11 @@ p.box3 {
   background-color: #cc66ff;
   text-align: center;
   color: #220033;
+  font-size: 125%;
 }
 
 .title3 {
-  width: 80px;
+  width: 100px;
   border: 1px solid black;
   position: absolute;
   top: 0px;
@@ -71,6 +75,7 @@ p.box3 {
   background-color: #ccffb3;
   text-align: center;
   color: #081a00;
+  font-size: 125%;
 }
 
 /********** Desktops only **********/
@@ -209,5 +214,4 @@ p.box3 {
 }
 
 /********** Base styles **********/
-
 
